@@ -1,5 +1,6 @@
 # Dual Battery Control
 
+[![Documentation][badge-docs]][docs]
 [![Home Assistant][badge-home-assistant]][home-assistant]
 [![HACS][badge-hacs]][hacs]
 [![HACS Validation][badge-hacs-validation]][workflow-hacs-validation]
@@ -47,6 +48,8 @@ If you find this project useful, and would like to help support its continued de
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=ffffff)](https://ko-fi.com/mjp76)
 [![Octopus Energy — you get £50, I get £50](https://img.shields.io/badge/Octopus%20Energy-%E2%80%94%20you%20get%20%C2%A350%2C%20I%20get%20%C2%A350-14294A?style=for-the-badge&logo=octopus-energy&logoColor=ffffff)](https://share.octopus.energy/iron-moose-196)
 
+[badge-docs]: https://img.shields.io/badge/Documentation-41BDF5?style=flat-square&logo=bookstack&logoColor=white
+[docs]: https://MJP-76.github.io/ha-dual-battery-control/
 [badge-home-assistant]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
 [home-assistant]: https://www.home-assistant.io/
 [badge-hacs]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg
